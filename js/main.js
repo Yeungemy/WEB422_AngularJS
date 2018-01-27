@@ -4,7 +4,7 @@
 * No part of this assignment has been copied manually or electronically from any other source
 * (including web sites) or distributed to other students. *
 * Name: Emy Yeung                Student ID: 026302117               Date: Jan 26, 2017
-*
+* https://assignment-1-htzheng.herokuapp.com/
 * *********************************************************************************************/
 
 $(".dropdown-menu").on("click", ".ajax-menu", function() {
