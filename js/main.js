@@ -10,7 +10,7 @@
 $(".dropdown-menu").on("click", ".ajax-menu", function() {
     event.preventDefault(); // stop the element from behaving like a regular link
     let $this = $(this);
-    var remoteURL = "https://still-castle-63359.herokuapp.com/"
+    var remoteURL = "https://still-castle-63359.herokuapp.com/";
     console.log(remoteURL + $this.attr("data-src"));
     
     $.ajax({
